@@ -1,5 +1,5 @@
 
-### Olá eu sou o Raphael Caria!👋
+### Olá! Eu sou o Raphael Caria!👋
 
 ![Caria's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelCaria&show_icons=true&theme=radical)
 ### Tecnologias do meu dia a dia👨‍💻
