@@ -17,7 +17,8 @@
           
 </div></br>
 
-Amante da tecnologia e sempre buscando mais conhecimento.
+🎯 Analista em Desenvolvimento de Sistemas  
+💻 Foco em Python, Web, Automação, Bancos de Dados  
 
 <div>
 <a href = "https://www.linkedin.com/in/raphael-caria-81a730223/">
